@@ -1,0 +1,8 @@
+/* Login page styles */
+.login-container {
+  @apply bg-gradient-to-br from-purple-950 via-purple-900 to-purple-800 min-h-screen flex items-center justify-center;
+}
+
+.login-form {
+  @apply w-full max-w-md bg-gradient-to-br from-purple-900 to-purple-800 rounded-lg shadow-2xl p-8 border border-purple-700;
+}
